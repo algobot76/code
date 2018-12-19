@@ -21,5 +21,8 @@ _testmain.go
 
 *.exe
 
+# Visual Studio Code
+.vscode/
+
 # Misc
 .DS_Store
